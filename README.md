@@ -1,2 +1,7 @@
 # useful_tips_developing_unityprojects
 These are some codes I wrote for more convenient unity developing.
+这些是我为了让unity制作更加方便编写的一些代码。
+要用这些代码，首先需要在Assets文件夹下新建一个Editor文件夹，然后导入这里的cs文件。
+保证unity目前的console不包含任何报错，顶部菜单栏会出现一个Tool
+点击Tool，就会出现很多我们需要的工具了
+ExportFullHierarchy.cs是用来一键导出Hierarchy中全部的子物体的全部参数的，可以用于和同事对齐或者发送给AIdebug。
